@@ -1,0 +1,4 @@
+LogDirectory=./logs
+LogFilePattern=*.log
+MinuteOfUpdate=5
+ShowCron=true
